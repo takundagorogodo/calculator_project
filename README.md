@@ -19,15 +19,6 @@ It performs basic arithmetic operations and includes clear and delete functional
 - CSS3 (Grid Layout)
 - JavaScript (DOM manipulation & event handling)
 
-## 📂 Project Structure
-calculator-project/
-├── index.html  
-├── style.css  
-├── script.js  
-├── screenshot.png  
-└── README.md  
-
-
 ## 🚀 How It Works
 
 1. All calculator buttons are selected using:
